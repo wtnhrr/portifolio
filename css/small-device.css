@@ -1,0 +1,258 @@
+﻿@media (min-width:1000px) and (max-width: 1030px) {
+    body {
+        background-image: url('../image/stars.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center center;
+        background-attachment: fixed;
+    }
+
+    #navbar {
+        left: 750px;
+    }
+
+    .icon {
+        font-size: 40px;
+    }
+
+    .name {
+        font-size: 20px;
+    }
+
+    img {
+        position: absolute;
+        left: 590px;
+        width: 30%;
+    }
+
+    .nomeperfil {
+        position: absolute;
+        top: 5%;
+        left: -20%;
+    }
+
+    h2 {
+        font-size: 35px;
+    }
+
+    .container {
+        left: 6%;
+    }
+
+    .container .box {
+        height: 400px;
+    }
+
+    #interesse {
+        left: 15%;
+        top: 50%;
+    }
+    .mascote img {
+        position: absolute;
+        width: 250px;
+        height: 250px;
+        left: 63%;
+    }
+
+    .social ul {
+        top: 239%;
+        left: 75%;
+    }
+
+    .finalmente {
+        position: absolute;
+        width: 25%;
+        top: 250%;
+        left: 75%;
+        padding-left: 50px;
+    }
+}
+
+@media (min-width:760px) and (max-width: 780px) {
+
+    body {
+        background-attachment:fixed;
+    }
+
+    #navbar {
+        width: 92%;
+        left: 65%;
+    }
+
+    header ul li a {
+        margin-left: -25px;
+    }
+
+    icon {
+        font-size: 30px;
+    }
+
+    img {
+        width: 250px;
+        height: 250px;
+        left: 50%;
+    }
+
+    h2 {
+        position: absolute;
+        width: 450px;
+        top: 500px;
+        left: 300px;
+        padding-left: 50px;
+    }
+
+    .container {
+        position: absolute;
+        width: 768px;
+        left: 300px;
+    }
+
+    .mascote img {
+        width: 300px;
+        height: 300px;
+        top: 380%;
+        left: 45%;
+    }
+
+    .social {
+        position: absolute;
+        top: 440%;
+        left: 65%;
+    }
+
+    .finalmente {
+        top: 450%;
+        left: 65%;
+    }
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+
+    body {
+        background-attachment: fixed;
+    }
+
+    #navbar {
+        top: 120px;
+        left: 195%;
+    }
+
+    .fa {
+        font-size: 100px;
+    }
+
+    .name {
+        font-size: 50px;
+    }
+
+    img {
+        top: 500px;
+        left: 130%;
+        width: 650px;
+        height: 650px;
+    }
+
+    h2 {
+        width: 800px;
+        top: 150%;
+        left: 100%;
+        text-align: center;
+        font-size: 100px;
+    }
+
+    .container {
+        position: absolute;
+        top: 230%;
+        left: 90%;
+        width: 500%;
+        align-items: center;
+    }
+
+    .container .box {
+        width: 1000px;
+        height: 1100px;
+        margin: 90px;
+    }
+
+    .text {
+        font-size: 60px;
+    }
+
+    .mascote img {
+        width: 650px;
+        height: 650px;
+        top: 1050%;
+        left: 120%;
+    }
+
+    .social {
+        position: absolute;
+        top: 1227%;
+        left: 150%;
+        width: 400px;
+        font-size: 30px;
+    }
+
+    .finalmente {
+        position: absolute;
+        top: 1250%;
+        left: 200%;
+        width: 550px;
+        font-size: 40px;
+    }
+
+    ul li {
+        padding: 0 0;
+    }
+    .icon {
+        font-size: 44px;
+    }
+}
+
+@media (min-width:1440px) and (max-width:1450px) {
+    body {
+        margin: 0;
+        padding: 0;
+    }
+    #navbar {
+        left: 50%;
+    }
+
+    img {
+        left: 40%;
+    }
+
+    h2 {
+        left: 39%;
+        width: 50%;
+    }
+
+    .container {
+        position: absolute;
+        text-align: justify;
+        top: 90%;
+        left: 2%;
+        width: 100%;
+        margin: -20px;
+    }
+
+    .container .box {
+        position: relative;
+    }
+
+    .mascote img {
+        top: 155%;
+        left: 41.5%;
+        width: 250px;
+        height: 250px;
+    }
+
+    .social {
+        position: absolute;
+        top: 240%;
+    }
+
+    .finalmente {
+        top: 250%;
+    }
+}
