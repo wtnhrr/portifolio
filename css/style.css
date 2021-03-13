@@ -7,8 +7,9 @@
 }
 
 body {
-    background-image: url('../image/stars.jpg');
+    background-image: url('../image/wooden.jpg');
     background-size: cover;
+    background-attachment: fixed;
 }
 
 .icon {

@@ -1,6 +1,6 @@
 ﻿@media (min-width:1000px) and (max-width: 1030px) {
     body {
-        background-image: url('../image/stars.jpg');
+        background-image: url('../image/wooden.jpg');
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center center;
@@ -76,7 +76,7 @@
 
     #navbar {
         width: 92%;
-        left: 65%;
+        left: 53%;
     }
 
     header ul li a {
@@ -90,39 +90,39 @@
     img {
         width: 250px;
         height: 250px;
-        left: 50%;
+        left: 38%;
     }
 
     h2 {
         position: absolute;
         width: 450px;
         top: 500px;
-        left: 300px;
+        left: 210px;
         padding-left: 50px;
     }
 
     .container {
         position: absolute;
-        width: 768px;
-        left: 300px;
+        width: 800px;
+        left: 5px;
     }
 
     .mascote img {
-        width: 300px;
-        height: 300px;
-        top: 380%;
-        left: 45%;
+        width: 250px;
+        height: 250px;
+        top: 210%;
+        left: 63%;
     }
 
     .social {
         position: absolute;
-        top: 440%;
-        left: 65%;
+        top: 300%;
+        left: 55%;
     }
 
     .finalmente {
-        top: 450%;
-        left: 65%;
+        top: 310%;
+        left: 55%;
     }
 }
 
@@ -134,7 +134,7 @@
 
     #navbar {
         top: 120px;
-        left: 195%;
+        left: 180%;
     }
 
     .fa {
@@ -147,15 +147,15 @@
 
     img {
         top: 500px;
-        left: 130%;
+        left: 113%;
         width: 650px;
         height: 650px;
     }
 
     h2 {
-        width: 800px;
+        width: 1200px;
         top: 150%;
-        left: 100%;
+        left: 40%;
         text-align: center;
         font-size: 100px;
     }
@@ -163,8 +163,8 @@
     .container {
         position: absolute;
         top: 230%;
-        left: 90%;
-        width: 500%;
+        left: 38%;
+        width: 300%;
         align-items: center;
     }
 
@@ -181,14 +181,14 @@
     .mascote img {
         width: 650px;
         height: 650px;
-        top: 1050%;
-        left: 120%;
+        top: 1100%;
+        left: 100%;
     }
 
     .social {
         position: absolute;
         top: 1227%;
-        left: 150%;
+        left: 130%;
         width: 400px;
         font-size: 30px;
     }
@@ -196,7 +196,7 @@
     .finalmente {
         position: absolute;
         top: 1250%;
-        left: 200%;
+        left: 180%;
         width: 550px;
         font-size: 40px;
     }
